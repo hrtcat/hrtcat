@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: HRT Cat
+
 theme: just-the-docs
+color_scheme: dark
+logo: "/assets/images/logo.png"
 
-url: https://just-the-docs.github.io
+url: https://hrt.cat
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+callouts:
+  warning:
+    title: Warning
+    color: red
+  info:
+    title: Info
+    color: blue
+
+mermaid:
+  # https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
