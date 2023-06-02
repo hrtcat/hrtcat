@@ -10,9 +10,15 @@ callouts:
   warning:
     title: Warning
     color: red
+  caution:
+      title: Caution
+      color: yellow
   info:
     title: Info
     color: blue
+  notice:
+    title: Notice
+    color: green
 
 mermaid:
   # https://cdn.jsdelivr.net/npm/mermaid/
