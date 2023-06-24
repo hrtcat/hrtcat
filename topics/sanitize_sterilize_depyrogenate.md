@@ -20,7 +20,7 @@ These terms all refer to different ways of removing microbes from a surface or m
 
 ## Sterilize
 
-#TODO - needs more info
+#TODO - needs more info, citations
 
 This means to fully remove or kill **all** microbes. If it's not 100% it's not sterile. This does not include pyrogens. 
 
@@ -30,7 +30,7 @@ Depyrogenation is the removal of pyrogens.
 
 >A pyrogen is defined as any substance that can cause a fever. Bacterial pyrogens include endotoxins and exotoxins, although many pyrogens are endogenous to the host.<sup>2</sup>
 
-Depyropgenation sometimes will result in sterilization, however they are considered distinct processes. 
+Depyropgenation sometimes will result in sterilization, however they are considered distinct processes and measures. 
 
 ## References
 

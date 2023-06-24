@@ -12,7 +12,7 @@ In short, you start with 6 agar plates. At the start of your process, as soon as
 
 Take one more agar plate and leave it exposed to the air in your home for 5-10 minutes. Your final plate should remain sealed. These are your positive and negative controls. 
 
-Store/incubate inverted. If you can, incubate at 30–35 °C for 48–72 hours<sup>1</sup>. If you do not have access to an incubator, leave at room temperature in a warm spot in your house. Instead of waiting 72 hours you may need to wait a week. Use your control sample that you left exposed to the air to help you determine when there is visible growth. 
+Tape shut around the edges. Store/incubate inverted. If you can, incubate at 30–35°C/86-95°F for 48–72 hours<sup>1</sup>. If you do not have access to an incubator, leave at room temperature in a warm spot in your house. Instead of waiting 72 hours you may need to wait a week. Use your control sample that you left exposed to the air to help you determine when there is visible growth. 
 
 According to the standards set forth in USP 797, if you show any pinpoints of growth on the two collections you took before compounding, or if you show more than 3 pinpoints of growth on the two plates collected after you finished compounding, then your sterile technique is lacking.
 

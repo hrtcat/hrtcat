@@ -7,11 +7,11 @@ parent: Other
 
 # A Critique of Lena's Method
 
-It is not my intention to shit all over another trans woman, especially one who serves the trans community so broadly. Lena has surely saved many lives through her work of distributing hormones, and then many more so with all the people she has inspired in the DIY community. However, we have to understand that the information she is providing the community with is outdated and no longer should be considered safe. Just look at common methodology for the steroid homebrewing community to see that these methods are out of date.
+It is not our intention to shit all over another trans woman, especially one who serves the trans community so broadly. Lena has surely saved many lives through her work of distributing hormones, and then many more so with all the people she has inspired in the DIY community. However, we have to understand that the information she is providing the community with is outdated and no longer should be considered safe. Just look at common methodology for the steroid homebrewing community to see that these methods are out of date.
 
 While Lena has a strong point that the pharmaceutical industry and its standards are driven by profit, we need to also consider that death is a _very real_ possibility as a result of injecting a contaminated vial. Just because we're not aware of this having had happened it does not mean it's not possible. We should take measures to protect everyone using our vials to the best of our ability.
 
-Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could *theoretically* be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. I'm pasting it below.
+Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could *theoretically* be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. we're pasting it below.
 
 >I heat already mixed solution in sealed vials in an autoclave under pressure 165 kPa = 24 PSI at temperature 129°C (overkill - more than recommended 121°C) for 30 min<sup>1</sup>
 
@@ -23,7 +23,7 @@ The numbers she is stating here are accurate means of sterilization when using a
 
 > the interior of a dry sealed container will not be sterilized effectively by steam. A small amount of water must be within the sealed container to sterilize the interior.<sup>2</sup>
 
-Keep in mind there should be NO water inside the vials for HRT preparations. The recipe I recommend is just hormone ester, MCT oil, and a very small amount of benzyl alcohol.
+Keep in mind there should be NO water inside the vials for HRT preparations. The recipe we recommend is just hormone ester, MCT oil, benzyl benzoate, and a very small amount of benzyl alcohol.
 
 **Ethide Labs states**:
 

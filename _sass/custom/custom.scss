@@ -5,3 +5,34 @@
 .site-logo {
   background-size: cover;
 }
+
+@media (max-width: 799px) {
+  .home-logo {
+    display: none;
+  }
+
+  .site-logo {
+    background-size: contain;
+    background-position: center;
+  }
+}
+
+.landing-grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.grid-item {
+  background-color: rgba(150, 150, 150, 0.1);
+  width: 45%;
+  min-width: 300px;
+  text-align: center;
+  font-size: 36px;
+  margin: 10px;
+  min-height: 64px;
+}
+
+@media (max-width: 951px) {
+  .grid-item { width: 100% }
+}

@@ -7,37 +7,65 @@ parent: Guide
 
 # Wash and Sterilize Tools and Vials
 
-#TODO finish this page
-
-#TODO not depyrogenating at 500F anymore, too hot for the silicone septa. 
-
-Now that you have a clean room that is more or less clean, you can start bringing your tools inside of it. [Wipe down everything with isopropyl alcohol 70%](/topics/alcohol_technique) before bringing it inside the room. This includes wiping down the outside of plastic bags, etc. You should be wearing gloves that you are frequently sanitizing with the isopropyl alcohol. The goal here is that everything in this room is clean and sanitized, so if your hands are dirty or your shoes are dirty etcetera then you are working against yourself and the final sterility of your vials.
+Now that you have a clean room that is more or less clean, you can start bringing your tools inside of it. [Wipe down everything with isopropyl alcohol 70%] before bringing it inside the room. This includes wiping down the outside of plastic bags, etc. You should be wearing gloves that you are frequently sanitizing with the isopropyl alcohol. The goal here is that everything in this room is clean and sanitized, so if your hands are dirty or your shoes are dirty etcetera then you are working against yourself and the final sterility of your vials.
 
 Set up your laminar flow hood or your still air box, ensuring that you wipe down the whole thing with alcohol to sanitize before use. If you are using a laminar flow hood you can turn it on now so that you can begin circulating more filtered air through your clean room.
 
-Preheat your oven to 500 degrees fahrenheit for depyrogenation.
+## Depyrogenation
 
-Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. I do this by dunking all of the vials it into a large pot of warm soapy water, shaking each vial underwater back and forth, and then rinsing well with cold water. Immediately start the depyrogenation process after rinsing
+All glassware and vials must be [depyrogenated](/topics/sanitize_sterilize_depyrogenate) prior to use[^1]. The technique we are using will sterilize them at the same time.
 
-All glassware and vials must be [depyrogenated](/topics/sanitize_sterilize_depyrogenate) prior to use <sup>1</sup>. Wrap your vials and glassware in aluminum foil. Once your oven is at temperature bake for at least 30 minutes. Transfer the still wrapped glassware from the oven directly into your clean room. 
+Preheat your oven to 250°C/485°F for depyrogenation. You should have an oven thermometer inside your oven to verify that you're at the right temperature. Hotter is okay.
+
+Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. We do this by dunking everything into a large pot of warm soapy water, shaking each vial underwater back and forth and then rinsing well with cold, distilled water. 
+
+No need to let the vials air/drip dry. If you used distilled water to rinse then it will leave to residue when you put it in the oven. Wrap your vials and glassware in aluminum foil in a way that will let steam escape but not let dust etc fall in, e.g. loosely fitted hats. Once your oven is at temperature put the items inside. You need to let the items get to the correct 250°C temp[^2], and then _once_ they are at temp you should bake for at least 30 minutes[^3]. It is difficult to determine when the items are at 250°, if you have a laser thermometer you could use that. Otherwise, we recommend you be play it very safe and give it an hour to get up to temp. This means you would have the items in the oven for 90 minutes after pre-heating.
+
+Once the time is up transfer the tray with the still wrapped glassware from the oven directly into your clean room. Keep wrapped.
+
+## Sterilization in Autoclave
 
 {: .warning }
-There is risk of vials breaking in the oven, see dry heat section: https://www.reddit.com/r/steroids/wiki/homebrew/list/#wiki_sterilization_techniques. Borosilicate vials are not rated to the 500F temp that is needed to depyrogenate. 
+If you are using a pressure cooker to sterilize instead of an autoclave you should be sure to read [this page].
 
-Vial caps and stoppers
+Items that can't be depyrogenated in the oven should be sterilized in the autoclave. While vial caps and stoppers are typically depyrogenated with pressurized Water For Injections (WFI) that is currently beyond the scope of what we feel we can achieve at home (if you're distributing your vials please consider learning how to do this). 
 
-#TODO list various items that need to be sterilized etc and list how they should do it, have topic pages that explain technique. stoppers and caps MUST be depyrogenated... double check that in CSP. Use USP or WFI water, which can be made in our home lab
+Wrap items in foil in a way that will allow steam penetration but will help keep them protected from microbes in the air when you remove them. 
 
-If you are using a pressure cooker to sterilize instead of an autoclave you should be sure to read [this page](/topics/instant_pot).
+Vial caps, stoppers, vial crimper (if it fits and if it's rated for autoclaves), any utensils etc that didn't go in the oven.
 
-## Fingertip Testing
+Your autoclave should operate at **121°C at 15psi for 60 minutes**[^4]. In a lab setting you might be able to leave it in for less than 60 minutes, but since we are unable to do certain validation testing at home, you should opt for this longer time.
 
-If you are going to do optional, but encouraged, fingertip testing, now is the time to take the before sample. [How to](/topics/fingertip_testing.md). #TODO
+## Sanitize what's left
 
-## References
+Anything you couldn't put in the oven or autoclave should be sanitized with 70% IPA. Examples like the work surface and scale.
 
-<sup>1</sup> CSP page 274
+## Fingertip Testing<sup>+</sup>
+
+If you are going to do fingertip testing<sup>+</sup>, now is the time to take the before sample. [How to preform fingertip testing]. 
 
 ---
-Previous Article: [Creating a Work Area](/guides/3_work_area)  
-Next Article: [Mix the Solution](/guides/5_mix_solution)
+
+## Navigation
+
+[&larr; 3. Prepare Work Area]{: .btn .btn-purple }
+[5. Mix Solution &rarr;]{: .btn .btn-purple }
+
+---
+
+
+## References and Notes
+
+[^1]: _Compounding Sterile Preparations_ page 274
+[^2]: If a vial is 25°C, and you put it in the oven, it won't instantly become 250°C. Therefore, you need to give it time to get up to temp.  
+[^3]: [DEPYROGENATION OF PHARMACEUTICAL PACKAGING COMPONENTS](https://www.dwkltd.com/pub/media/wysiwyg/literature/DWK-Depyrogenation-of-Pharmaceutical-Packaging-Components-UK-A42022.pdf)
+[^4]: _Compounding Sterile Preparations_ pages 253-254
+
+---
+
+[Wipe down everything with isopropyl alcohol 70%]: /topics/alcohol_technique
+[this page]: /topics/instant_pot
+[How to preform fingertip testing]: /topics/fingertip_testing
+
+[&larr; 3. Prepare Work Area]: /guides/3_work_area
+[5. Mix Solution &rarr;]: /guides/5_mix_solution

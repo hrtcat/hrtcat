@@ -9,9 +9,9 @@ parent: Guide
 
 ## Final Sterilization
 
-There is a vast misconception that putting closed and finished vials into your autoclave will sterilize them. Because the vial is sealed and cannot be penetrated by steam, there is no veracity to this claim. The heat generated from your autoclave alone is not sufficient to sterilize the inside of the vial. See [this page](/other/lena.md) for more info. 
+There is a vast misconception that putting closed and finished vials into your autoclave will sterilize them. Because the vial is sealed and cannot be penetrated by steam, there is no veracity to this claim. The heat generated from your autoclave alone is not sufficient to sterilize the inside of the vial. See [this page] for more info. 
 
-Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. If you're superstitious or whatever and wanna do a final step, you can throw these in the autoclave for 30-60 minutes, but as far as I can tell it won't do much. 
+Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. If you're superstitious or whatever and wanna do a final step, you can throw these in the autoclave for 30-60 minutes, but as far as we can tell it won't do much. 
 
 ## Making a Record
 
@@ -21,6 +21,7 @@ It's important that you have a written record of everything you did with this br
 * The items that were sanitized, sterilized, and depyrogenated
 * The temperature, time length, and technique that was used for those "cleanings"
 * Bubble point test info
+* Outcome of fingertip<sup>+</sup> and sterility testing<sup>+</sup>
 * As much as you can write about exactly what you did
 * Anything else you can think of. 
 
@@ -30,7 +31,7 @@ This data should be given a **Batch Number**. If you encounter any problems with
 
 You should label each vial with the following information
 
-* Active ingredient and strength (e.g. 20mg/mL)
+* Active ingredient and strength (e.g. 40mg/mL)
 * Total volume
 * Manufacturer name (that's you!)
 * Manufacture date
@@ -41,16 +42,22 @@ Optionally you might add
 * Inactive ingredients and concentrations
 * Logo/design/cat girls/memes
 
-Here's an example from [Noire Labs](https://noirelabs.net/):
+Here's an example of something we might use:
 
-![](/assets/images/noire_label.png)
+![](/assets/images/vial_label.jpg)
 
 ## Check status of tests
 
-If you preformed fingertip testing, you need to properly incubate the agar, or let them sit for a while at room temp if you don't have an incubator. Check how the plates are doing once they're ready. More about fingertip testing [here](/topics/fingertip_testing)
+If you preformed fingertip testing and final sterility testing #TODO
 
 ## All done :) 
 
 ---
 
-Previous Article: [Bubble Point Testing](/guides/7_bubble_point)
+## Navigation
+
+[&larr; 7. Bubble Point Testing]{: .btn .btn-purple }
+
+[this page]: /other/lena
+[fingertip testing here]: /topics/fingertip_testing
+[&larr; 7. Bubble Point Testing]: /guides/7_bubble_point

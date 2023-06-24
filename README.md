@@ -12,7 +12,7 @@ Reference the Jekyll template on how to host on GitHub pages or host elsewhere: 
 
 ## Contributing
 
-I am but a single man (not a man). I have done my best with this guide, but I can only do so much. If you see room for improvement, please feel free to create an issue or better yet make the needed change and open a pull request. I request that all changes be facilitated through [GitHub](https://github.com/hrtcat/hrtcat).
+We are a small team and have done our best with this guide, but we can only do so much. If you see room for improvement, please feel free to create an issue or better yet make the needed change and open a pull request. We request that all changes be facilitated through [GitHub](https://github.com/hrtcat/hrtcat).
 
 ## License
 
@@ -31,5 +31,5 @@ As long as you:
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 
-This license is in place in case this project becomes abandoned. I urge you to please contribute to HRT.cat instead of copying this guide and creating a competing resource.
+This license is in place in case this project becomes abandoned. Weurge you to please contribute to HRT.cat instead of copying this guide and creating a competing resource.
 

@@ -7,35 +7,51 @@ parent: Other
 
 # DIY Journal
 
-Welcome to my journal where I write about ~~wild fantasies I have about catgirls~~ what I'm actively learning on any given day. Thoughts may be incomplete and scattered, these are merely my own notes. Look at [Topics](/topics) and [Guide](/guide) for more structured info.
+Welcome to our journal where we write about ~~wild fantasies we have about catgirls~~ what we're actively learning on any given day. Thoughts may be incomplete and scattered, these are merely our own notes. Look at [Topics](/topics) and [Guide](/guide) for more structured info.
 
-## Vial Size and Concentration
+## Silicone Stoppers are Cancelled
 
-An average weekly dose of EEn is 5mg. Let's say we have a 2ml vial at 20mg/ml. At 0.2mL per dose that's 10 doses minus the amount lost to dead space in the needle. This would last around 9 weeks then.
+These seemed like a good idea due to their high heat resistance and therefore their ability to withstand dry heat depyrogenation. However, we located a study that has indicated that benzyl alcohol (BA), the essential preservative in HRT, can be absorbed by silicone and then even evaporate out the other side of it. While this hasn't been studied in relationship to a preparation with a 1% concentration of BA, it stands to reason that as the preparation make contact with the vial stopper it could, rather quickly, remove the preservative from the vial. 
 
-With a 5mL vial that's 25 doses (minus lost). This would last around 23-24 weeks, which is almost half a year.
+This is of much higher concern than a stopper that did not undergo depyrogenation. we are switching the guide back to using butyl rubber. We will use a minimum of autoclaving the stoppers for a sterilization cycle. We will look further into using pressurized WFI at home to depyrogenate. This is probably out of reach or asking too much of the average homebrewer. we're sad to have lost this easy method but grateful no vials have been produced with the silicone stoppers.
 
-10mL vial is then 50 doses, lasting just shy of a year. 
-
-Now, most homebrewers will brew at a 40mg/mL concentration, and often distribute a 10mL vial, effectively containing two years worth of HRT in a single vial. This is a bad idea. The FDA requires that all vials are discarded 28 days after first puncture. And like, yeah sure, ACAB, and truly the FDA is probably way conservative, but also... they're probably not that wrong here. 
-
-Every time you puncture a sterile vial, and **especially** if you aspirate your vials, you risk introducing microbes to your medication. So let's say 28 days is highly conservative. 1) being conservative with injection safety is okay. 2) is 2 months reasonable? 6 months? 2 years? 
-
-I want to have high concentrations of my brew because it's nice to not have to inject very much, but I also don't want to risk contaminating my vial.
-
-This is why I'm considering using 2mL vials. If I fill one with 40mg/mL...
-
-Typical needle dead space is around 0.05mL<sup>1</sup>  
-Typical syringe dead space is around 0.07mL<sup>1</sup>.
-
-This would mean your 0.1mL injection takes 0.22mL of your medication. 
-
-Damn. Time to get some low dead space syringes. 
-
-0.035mL is the approx dead space on the syringes I'm currently using. 
+* [BB + Silicone are a bad match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=268)  
+* [BA + Silicone are a good match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=267)  
+* [BA evaporates through silicone barriers](https://doi.org/10.1016/j.ejpb.2016.11.021)
+* [Silicone absorbs MCT oil](https://recipesfaqs.com/does-mct-oil-break-down-silicone/) (no sources cited)
 
 
-<sup>1</sup>[Variation in syringes and needles dead space compared to the International Organization for Standardization standard 7886-1:2018](https://www.sciencedirect.com/science/article/abs/pii/S1467298721000659)
+## Vial contamination
+
+why do a severe lack of sterilization practices in most DIY guides result in vials that are not causing infection en masse? our theory is that the benzyl alcohol in the vials is killing stray contamination. There are some studies that tangentially support that theory. 
+
+* [Contamination ID'd in multidose vials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1524851/) - vet hospitals. found in 18% of MDVs
+* [Contam studied in vials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC272247/) - 1982, no actionable info
+* [contamination of multidose vials in simulated use](https://pubmed.ncbi.nlm.nih.gov/2173497/) - 1990, regarding syringe reuse. Reports that leaks were present in 9.8% of tested vials. that would support smaller vials.
+* [Contam risks in MDVs](https://journals.sagepub.com/doi/10.1177/875512258900500609) - 1989, looks to be a really strong article, but it's paywalled and not on sci-hub. great.
+* 
+
+## Final Sterility Testing
+
+There is a sterility test that can be preformed on the vials, CSP pg 261, USP 71
+
+>The minimum volume of each CSP to be tested is dependent on the volume of the final product. If the product is <1 mL, the entire volume must be tested. If 1–40 mL, then half the total volume is tested. If 40–100 mL, then 20 mL is tested. If the volume is >100 mL, then 10% of the volume is tested (but at least 20 mL).
+
+To do this you would decide how much of your preparation you're testing, then you run it all through a 0.45μm filter. Then you can disassemble the filter, and put the membrane on agar. Incubate for 14 days.
+
+After the mixture passes through the 0.45μm filter it is, in theory, still adequate for use as soon as the tests clear. Therefore, you could do a procedure like filter most though a 0.22μm filter straight into vials. Filter the remainder through the 0.22μm into a sterile and depyrogenated container. Then run that all through the sterile 0.45μm filter (clean syringe) while dispensing into vials.
+
+This is not part of our procedure right now, but it should be. The issue we run into is regarding which type of agar to use for this. CSP pg 262 says that USP says that it needs to be FTM (lol) or SCDM agar, neither of which appear to be readily available for the public to purchase or to even make at home for less than hundreds of dollars -- https://microbiologie-clinique.com/trypticase-soy-agar-principle-interpretation.html
+
+#TODO - finish section on sterility testing, revise the rest of the guide to reflect.
+
+_1 week later_
+
+Okay so scratch some of the above. This seemed more difficult to manage because the USP uses a weird naming convention for their agar types. What they call SCDM (soybean-casein digest agar medium) is typically referred to as TSA (tryptic soy agar) within the scientific community. TSA powder and plates are both readily available on Amazon for just shy of $50. 
+
+It would be good to do more research on the second type of recommended agar, FTM, to see what the primary difference is between TSA and what types of growth it supports. Using one of these is better than none. 
+
+Additionally, need to look into what type of agar is needed for fingertip testing.
 
 ## What does heating a sealed vial to 120C actually do??
 
@@ -49,16 +65,16 @@ assuming we start at 15psi and 20C, and we heat to 120C, we end up with a final 
 
 Let's crosscheck that pressure value with moist heat sanitization.
 
-moist heat sterilization requires a pressure of 15psi. Not sure how to rectify that with 15psi being like, literally what is in my living room rn according to the internet. Maybe the moral of the story is that we need steam. No one says to sterilize with pressurized dry heat. 
+moist heat sterilization requires a pressure of 15psi. Not sure how to rectify that with 15psi being like, literally what is in our living room rn according to the internet. Maybe the moral of the story is that we need steam. No one says to sterilize with pressurized dry heat. 
 
 ## Benzyl Benzoate (BB)
 _May 29, 2023_
 
 There are reports of this ingredient not being needed as it's primary purpose is to act as a solvent. Hormone esters are oil soluble, and so they will likely reach solution without it and with using a little heat. Unfortunately this could lead to preparations falling out of solution with dramatic environment changes, just a theory. 
 
-Looking further, it appears that every recipe I can find online both from DIYers and pharmaceutical companies list benzyl benzoate as an ingredient. Being unable to find verifiable information at to why this is, I will take it as a near certainty that I'm going to want the solvent boost in my brew. 
+Looking further, it appears that every recipe we can find online both from DIYers and pharmaceutical companies list benzyl benzoate as an ingredient. Being unable to find verifiable information at to why this is, we will take it as a near certainty that we're going to want the solvent boost in our brew. 
 
-Once I have more space around this project I may perform a set of experiments with E En, MCT, and BB to determine what's needed to get it to fall in and out of solution at various concentrations. In the meantime I need to finish building this guide and there are more important questions to be answered, like "will anyone read this?" and "how many people are going to attack me in my DMs for claiming that using an autoclave on a sealed vial is pointless and has no supported scientific basis?" and "how do I make this logo look good at all screen sizes?"
+Once we have more space around this project we may perform a set of experiments with E En, MCT, and BB to determine what's needed to get it to fall in and out of solution at various concentrations. In the meantime we need to finish building this guide and there are more important questions to be answered, like "will anyone read this?" and "how many people are going to attack us in our DMs for claiming that using an autoclave on a sealed vial is pointless and has no supported scientific basis?" and "how do we make this logo look good at all screen sizes?"
 
 ## Material List
 
@@ -76,14 +92,14 @@ Once I have more space around this project I may perform a set of experiments wi
 
 [USP 381: Closures for Injections](https://www.uspnf.com/sites/default/files/usp_pdf/EN/USPNF/revisions/381_elastomeric_closure_for_injections_rb_notice.pdf)
 
-I fear I'm wayyy in the weeds on the question regarding how to depyrogenate the rubber stoppers. But also, it's a very valid question. It seems to be largely overlooked within a DIY setting and in laboratory conditions there are tools to do the testing I'm not able to do. 
+Might be in the weeds on the question regarding how to depyrogenate the rubber stoppers. But also, it's a very valid question. It seems to be largely overlooked within a DIY setting and in laboratory conditions there are tools to do the testing we're not able to do. 
 
-I'm going to rest at this point here for now: 
+we're going to rest at this point here for now: 
 1. Butyl rubber stoppers *might* lose integrity if dry-heat depyrogenated. 
 2. Silicone rubber stoppers are *significantly less likely* to lose integrity if dry-heat depyrogenated, due to silicone being strong af. 
-3. Using pre-sterilized vials sounds ideal, but there is a major downside of piercing a vial and then putting it in storage. I'm unable to find ANY information relating to doing things this way. 
+3. Using pre-sterilized vials sounds ideal, but there is a major downside of piercing a vial and then putting it in storage. we're unable to find ANY information relating to doing things this way. 
 
-This makes silicone stoppers sound like the best option. Because this is a less common material I feel the need to check compatability with MCT, BA, and BB.
+This makes silicone stoppers sound like the best option. Because this is a less common material we feel the need to check compatability with MCT, BA, and BB.
 
 ---
 
@@ -104,7 +120,7 @@ Dry-heat depyrogenation continues to be the method of choice for the sterilizati
 
 According to [this document](https://frederick.cancer.gov/sites/default/files/2022-05/Preparation_of_Vials%2C_Stoppers%2C_and_Crimps_for_CGMP_Filling_of_Final_Product.pdf), glass vials need to be depyrogenated, while stoppers and caps can be sterilized.
 
-According to Compounding Sterile Preparations, anything sterilized or depyrogenated needs to be done so in a container with a lid. This way it can be moved safely into the clean room. We will autoclave the caps and the lids inside of the clean room, however we still want to autoclave these things in a way so that they remain covered until they are ready for use. I will likely use aluminum foil wrapped in a way that allows steam penetration.
+According to Compounding Sterile Preparations, anything sterilized or depyrogenated needs to be done so in a container with a lid. This way it can be moved safely into the clean room. We will autoclave the caps and the lids inside of the clean room, however we still want to autoclave these things in a way so that they remain covered until they are ready for use. We will likely use aluminum foil wrapped in a way that allows steam penetration.
 
 
 
@@ -113,7 +129,7 @@ _May 13, 2023_
 
 Build a clean room. The room needs to have high quality air filtration. Ideally this would be monitored but that seems unrealistic for DIY.
 
-There needs to be a pressure differential between the clean room and the rest of your space. The differential isn't listed. Logically I think it just means you need to have air flowing OUT of the clean room, not in. This could be achieved as simply as having your air filter get intake from outside the room and push the clean air into the room. Differential is supposed to be monitored but that's unrealistic in DIY settings. Use simple tests such as dangling some string at the openings of the clean room to see that the airflow is blowing them out.
+There needs to be a pressure differential between the clean room and the rest of your space. The differential isn't listed. Logically we think it just means you need to have air flowing OUT of the clean room, not in. This could be achieved as simply as having your air filter get intake from outside the room and push the clean air into the room. Differential is supposed to be monitored but that's unrealistic in DIY settings. Use simple tests such as dangling some string at the openings of the clean room to see that the airflow is blowing them out.
 
 Recommended clean room temperature of 68F (20C) and humidity of 35-60%.
 
@@ -155,21 +171,21 @@ So much of the guidelines require certain standards as to where the drug is comi
 ## Reading about sterility assurance
 _May 11, 2023_
 
-Chapter 17 of _Compounding Sterile Preparations_. I need to learn how to calculate the Sterility Assurance Level (SAL).
+Chapter 17 of _Compounding Sterile Preparations_. We need to learn how to calculate the Sterility Assurance Level (SAL).
 
 Filtration is important. Unless filtration is terminal filtration it cannot be assumed to create a sterile end product. **(What makes it terminal?)** An explanation of features needed in the syringe filter are listed in this chapter. Filters must be tested for integrity after they are used and results recorded. See CSP pg 252 for diagram.
 
 Biological indicators must be used when sterilizing by heat to help ensure that the sterilization cycle was effective.
 
-There is also info here about using steam and dry heat. Dry heat sterilizer using a static-air sterilizer (basically an oven) is not suitable for most materials. Use 338F for 60 mins, 320F for 120 mins, or 302F for 150 mins. I imagine if using a kitchen oven there should be a thermometer inside to verify temperatures.
+There is also info here about using steam and dry heat. Dry heat sterilizer using a static-air sterilizer (basically an oven) is not suitable for most materials. Use 338F for 60 mins, 320F for 120 mins, or 302F for 150 mins. We imagine if using a kitchen oven there should be a thermometer inside to verify temperatures.
 
-Steam sterilization (autoclave) is considered terminal sterilization, it can be used to to sterilize the product and final container.It is the preferred method to sterilize aqueous solutions and suspensions that have been verified to maintain their chemical and physical stability under the required conditions. **How can I verify this with EEn or TEn?**
+Steam sterilization (autoclave) is considered terminal sterilization, it can be used to to sterilize the product and final container.It is the preferred method to sterilize aqueous solutions and suspensions that have been verified to maintain their chemical and physical stability under the required conditions. **How can we verify this with EEn or TEn?**
 
 There is a formula that will let you determine temperature/time/pressure ratios.
 
 D = decimal reduction time (minutes). time to reduce microbial population by 90%  
 T = temperature  
-Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. I get what this means but not really how to find the needed values.  
+Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. We get what this means but not really how to find the needed values.  
 F<sub>0</sub> = idk?? it says this is a value but doesn't actually define it.
 
 100 microbes in a solution, reduced by 1D, 10 microbes left.
@@ -191,10 +207,10 @@ Use biological indicators containing _Geobacillus stearothermophilus_ (USP Chapt
 ## Getting Started
 _May 10, 2023_
 
-I'm going to use this page to document my "bathtub estradiol" project in hopefully fairly substantial depth. I have spent several months researching how to make DIY Estradiol Enanthate injectable vials, and I'm coming to the conclusion that there is no definitively *good* resource on how to do this. There is, however, a lot of information floating around. Most full blown guides are lacking a full explanation of why they're doing what they're doing, and additionally fail to hold themselves to what I consider adequate sterilization standards.
+we're going to use this page to document our "bathtub estradiol" project in hopefully fairly substantial depth. We have spent several months researching how to make DIY Estradiol Enanthate injectable vials, and we're coming to the conclusion that there is no definitively *good* resource on how to do this. There is, however, a lot of information floating around. Most full-blown guides are lacking a full explanation of why they're doing what they're doing, and additionally fail to hold themselves to what we consider adequate sterilization standards.
 
-I am of the mind that if you are making vials for just yourself, and you make an informed decision to skip some sterilization procedures, then that is your right. However, it seems like most people who are making DIY vials do not have access to the right information for them to be making informed decisions around this. Worse then, when people use incomplete guides online to make HRT to distribute.
+we are of the mind that if you are making vials for just yourself, and you make an informed decision to skip some sterilization procedures, then that is your right. However, it seems like most people who are making DIY vials do not have access to the right information for them to be making informed decisions around this. Worse then, when people use incomplete guides online to make HRT to distribute.
 
-So, it is my goal to document my learning and brewing process in order to create a new standard for DIY guides. I will always be open to researched and referenced criticisms with the ultimate goal of creating the best open source guide we possibly can.
+So, it is our goal to document our learning and brewing process in order to create a new standard for DIY guides. We will always be open to researched and referenced criticisms with the ultimate goal of creating the best open source guide we possibly can.
 
 More to come.
