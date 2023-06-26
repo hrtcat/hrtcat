@@ -6,15 +6,16 @@ parent: Other
 ---
 
 # Were Your DIY Vials Properly Sterilized?
+
 _Updated June 19, 2023_
 
-Broadly speaking, probably not. Of the 4 different homebrew guides that were evaluated, 3 failed to offer adequate terminal sterilization and none provided any guidance on depyrogenation. None offered any form of quality assurance testing. Does that mean they’re unsafe? Not necessarily. Many, many trans people inject homemade HRT every single week. If it was categorically unsafe then there would be large reports of infections on popular DIY forums and discords. A brief meta analysis of academic literature indicates that when contamination is introduced to multi-dose vials, the preservatives in the vials often kill the contamination in under 48 hours. While these are not studies regarding pre-existing contamination, nor studies about HRT, we can assume that at least the same logic structure applies. 
+Broadly speaking, probably not. Of the 4 different homebrew guides that were evaluated, 3 failed to offer adequate terminal sterilization and none provided any guidance on depyrogenation. None offered any form of quality assurance testing. Does that mean they’re unsafe? Not necessarily. Many, many trans people inject homemade HRT every single week. If it was categorically unsafe then there would be large reports of infections on popular DIY forums and discords. A brief meta analysis of academic literature indicates that when contamination is introduced to multi-dose vials, the preservatives in the vials often kill the contamination in under 48 hours. While these are not studies regarding pre-existing contamination, nor studies about HRT, we can assume that at least the same logic structure applies.
 
-When we take that data, and we combine it with the consideration that the average person is likely capable of fighting off small amounts of bacterial/viral contamination from an injection, the picture becomes a bit more clear. There is always potential for complication, but most people do not experience it. 
+When we take that data, and we combine it with the consideration that the average person is likely capable of fighting off small amounts of bacterial/viral contamination from an injection, the picture becomes a bit more clear. There is always potential for complication, but most people do not experience it.
 
-That said. The creators of most DIY injectables believe they are achieving terminal sterilization, which they likely are not. Their methods are misguided and not scientifically supported. It is our belief that the amateur pharmacist who is compounding these medications should have a stronger understanding of the process they’re undertaking, especially regarding the safety of their product. Relying on the patients immune system, and potentially a preservative in the vial, to keep them safe from a product you're making is irresponsible. Especially when sterility doesn't have to be totally out of reach to achieve. 
+That said. The creators of most DIY injectables believe they are achieving terminal sterilization, which they likely are not. Their methods are misguided and not scientifically supported. It is our belief that the amateur pharmacist who is compounding these medications should have a stronger understanding of the process they’re undertaking, especially regarding the safety of their product. Relying on the patients immune system, and potentially a preservative in the vial, to keep them safe from a product you're making is irresponsible. Especially when sterility doesn't have to be totally out of reach to achieve.
 
-  HRT.cat recommends the following sterilization procedure for folks who do not possess special equipment or know-how. 
+HRT.cat recommends the following sterilization procedure for folks who do not possess special equipment or know-how.
 
 ## How sterilization should be done at home
 
@@ -45,7 +46,7 @@ Lena has a separate page that recommends using an autoclave. Those instructions 
 
 In summary: don't use this method. Don't write a new guide based on this method. If these vials have any sort of sterility it is solely because of the benzyl alcohol included in the recipe.
 
-### Noir Labs
+### Noire Labs
 
 [https://noirelabs.net/diy-estradiol-guide](https://noirelabs.net/diy-estradiol-guide) - This person probably got the bulk of her info from Lena's guide but has supplemented it with a few additional safety practices.
 
