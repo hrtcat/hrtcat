@@ -13,7 +13,7 @@ While Lena has a strong point that the pharmaceutical industry and its standards
 
 Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could _theoretically_ be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. we're pasting it below.
 
-> I heat already mixed solution in sealed vials in an autoclave under pressure 165 kPa = 24 PSI at temperature 129°C (overkill - more than recommended 121°C) for 30 min<sup>1</sup>
+> I heat already mixed solution in sealed vials in an autoclave under pressure 165 kPa = 24 PSI at temperature 129°C (overkill - more than recommended 121°C) for 30 min[^1]
 
 On Lena's community guide for homebrewing, [there are even more relaxed suggestions regarding sterilization](https://groups.io/g/MTFHRT/wiki/29602#Sterilize).
 
@@ -21,17 +21,17 @@ The numbers she is stating here are accurate means of sterilization when using a
 
 **Compounding Sterile Preparations** states:
 
-> the interior of a dry sealed container will not be sterilized effectively by steam. A small amount of water must be within the sealed container to sterilize the interior.<sup>2</sup>
+> the interior of a dry sealed container will not be sterilized effectively by steam. A small amount of water must be within the sealed container to sterilize the interior.[^2]
 
 Keep in mind there should be NO water inside the vials for HRT preparations. The recipe we recommend is just hormone ester, MCT oil, benzyl benzoate, and a very small amount of benzyl alcohol.
 
 **Ethide Labs** states:
 
-> oils or enclosed dry systems cannot effectively be terminally sterilized by moist heat as steam cannot reach these items... Any sealed or covered container must have some degree of moisture inside the sealed or covered system. Otherwise, steam cannot penetrate the container, and the container’s interior will not be appropriately sterilized.<sup>3</sup>
+> oils or enclosed dry systems cannot effectively be terminally sterilized by moist heat as steam cannot reach these items... Any sealed or covered container must have some degree of moisture inside the sealed or covered system. Otherwise, steam cannot penetrate the container, and the container’s interior will not be appropriately sterilized.[^3]
 
 **Pharmaceutical Engineering**:
 
-> Direct steam contact with the surface of the object to be sterilized is required for the steam to transfer its stored energy to the object. Without direct steam contact to all surfaces, the item will not be sterilized. The amount of energy stored in steam is much higher than dry air or water at the same temperature... additional energy stored in the steam is... the key to steam sterilization. In order for the steam to transfer its stored energy, it must condense on the surface of the object being sterilized.<sup>4</sup>
+> Direct steam contact with the surface of the object to be sterilized is required for the steam to transfer its stored energy to the object. Without direct steam contact to all surfaces, the item will not be sterilized. The amount of energy stored in steam is much higher than dry air or water at the same temperature... additional energy stored in the steam is... the key to steam sterilization. In order for the steam to transfer its stored energy, it must condense on the surface of the object being sterilized.[^4]
 
 An autoclave works by introducing surfaces to pressurized, saturated steam. It is not just pressure plus temperature that causes autoclaves to work, the steam is an essential component. How do you expect pressurized steam to get inside the vial? If you are compounding an aqueous solution, then when the autoclave reaches 120C, the water inside the solution hit 120C as well, it will be unable to boil and will pressurize, release steam, and sterilize the inside of the container. But because hormone esters are not soluble in water, and use an oil as a base, this doesn't work.
 
@@ -39,10 +39,10 @@ Making sterility mistakes seems to not be life or death most of the time. Howeve
 
 ## References
 
-<sup>1</sup>[Lena's purchase page](http://lena.kiev.ua/EV/) ([backup](https://web.archive.org/web/20230515083939/http://lena.kiev.ua/EV/))
+[^1]: [Lena's purchase page](http://lena.kiev.ua/EV/) ([backup](https://web.archive.org/web/20230515083939/http://lena.kiev.ua/EV/))
 
-<sup>2</sup>Compounding Sterile Preparations, pg 254
+[^2]: Compounding Sterile Preparations, pg 254
 
-<sup>3</sup>[Steam Sterilization vs. Dry Heat Sterilization For Medical Devices & Products](https://ethidelabs.com/steam-sterilization-vs-dry-heat-sterilization-for-medical-devices-and-products/)
+[^3]: [Steam Sterilization vs. Dry Heat Sterilization For Medical Devices & Products](https://ethidelabs.com/steam-sterilization-vs-dry-heat-sterilization-for-medical-devices-and-products/)
 
-<sup>4</sup>[Steam Sterilization Principles & Common Mistakes Using Autoclaves](https://ispe.org/pharmaceutical-engineering/november-december-2013/steam-sterilization-principles-common-mistakes)
+[^4]: [Steam Sterilization Principles & Common Mistakes Using Autoclaves](https://ispe.org/pharmaceutical-engineering/november-december-2013/steam-sterilization-principles-common-mistakes)

@@ -22,8 +22,8 @@ Look up the hormone ester that you're working with on Google, make sure you find
 
 | Hormone             | CAS       | Melting Point           |
 |:--------------------|:----------|:------------------------|
-| Estradiol enanthate | 4956-37-0 | 94-96° C <sup>1</sup>   |
-| β-Estradiol         | 50-28-2   | 173-179° C <sup>2</sup> |
+| Estradiol enanthate | 4956-37-0 | 94-96° C[^1]   |
+| β-Estradiol         | 50-28-2   | 173-179° C[^2] |
 
 _create a [pull request](https://github.com/hrtcat/hrtcat) to add more_
 
@@ -40,7 +40,7 @@ Hormones do not easily dissolve in water, but they do dissolve in oils. Attempt 
 
 ## Laboratory Hormone Testing
 
-Hormones that are coming from the grey-market are unlikely to have the same level of purity as hormones acquired from USP grade pharmaceutical manufacturers. For example, instead of 99.8% purity you might end up with something like 97.2% (like was the case with Boobs Not Bombs testing<sup>3</sup>). We're unable to determine what compromises the remaining 2.8%, or what levels of purity are expected from pharmaceutical grade hormones. 
+Hormones that are coming from the grey-market are unlikely to have the same level of purity as hormones acquired from USP grade pharmaceutical manufacturers. For example, instead of 99.8% purity you might end up with something like 97.2% (like was the case with Boobs Not Bombs testing[^3]). We're unable to determine what compromises the remaining 2.8%, or what levels of purity are expected from pharmaceutical grade hormones. 
 
 When you purchase bulk raw hormones you should send them in to be tested before you brew with and inject them.
 
@@ -54,8 +54,8 @@ We recommend that anyone with the means to do so, submit their raw powder for la
 
 ## References
 
-<sup>1</sup>[https://www.scbt.com/p/estradiol-enanthate-4956-37-0](https://www.scbt.com/p/estradiol-enanthate-4956-37-0)
+[^1]: [https://www.scbt.com/p/estradiol-enanthate-4956-37-0](https://www.scbt.com/p/estradiol-enanthate-4956-37-0)
 
-<sup>2</sup>[https://pubchem.ncbi.nlm.nih.gov/compound/Estradiol#section=Melting-Point](https://pubchem.ncbi.nlm.nih.gov/compound/Estradiol#section=Melting-Point)
+[^2]: [https://pubchem.ncbi.nlm.nih.gov/compound/Estradiol#section=Melting-Point](https://pubchem.ncbi.nlm.nih.gov/compound/Estradiol#section=Melting-Point)
 
-<sup>3</sup>[Boobs Not Bombs beta estradiol test results](https://cryptpad.fr/file/#/2/file/d7UvTrq1J6Spi9DdORRj4F5z/newpad=e30%3D/)
+[^3]: [Boobs Not Bombs beta estradiol test results](https://cryptpad.fr/file/#/2/file/d7UvTrq1J6Spi9DdORRj4F5z/newpad=e30%3D/)
