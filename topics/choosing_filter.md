@@ -8,8 +8,8 @@ parent: Topics
 
 * **Pore Size**: 0.22μm (this size is required for sterilization)
 * **Sterility**: Use pre-packaged, sterile filters.
-* **Size**: if you're filtering 1-10mL, use a 13mm filter. 10-100mL use a 25mm filter[^1]. 100m-250mL use a 33mm filter[^4]. Keep in mind that the filter will eat some of your final product. The larger the filter the more product it will retain. At the same time, a larger filter will be easier to push your preparation through.
-* **Filter material**: Polyvinylidene Fluoride (PVDF) is highly available and is compatible with our goals. It is safe with oil, benzyl alcohol, and benzyl benzoate (in small quantities)[^2] [^3].
+* **Size**: if you're filtering 1-10mL, use a 13mm filter. 10-100mL use a 25mm filter.[^1] 100m-250mL use a 33mm filter.[^4] Keep in mind that the filter will eat some of your final product. The larger the filter the more product it will retain. At the same time, a larger filter will be easier to push your preparation through.
+* **Filter material**: Polyvinylidene Fluoride (PVDF) is highly available and is compatible with our goals. It is safe with oil, benzyl alcohol, and benzyl benzoate (in small quantities).[^2] [^3]
 
 {: .info}
 Make sure the filters you are purchasing list a bubble point on them. We need to do a bubble point test after terminal sterilization to ensure that the filter kept its integrity. We've seen it also listed as "Max Burst Pressure."

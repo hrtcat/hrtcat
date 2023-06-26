@@ -6,7 +6,7 @@ parent: Topics
 
 # How to Make Agar Plates
 
-Used for [fingertip testing] and sterility assurance. You should use Tryptic Soy Agar (TSA)[^1] as your growth medium. If you have the ability and means to use Fluid Thioglycolate Medium (FTM) then you should use it _in addition_ to TSA for your sterility testing[^2]. USP 71 says that _both_ TSA and FTM need to be used for sterilization tests, however, FTM is expensive and difficult to procure and so we have opted to leave it out of this guide.
+Used for [fingertip testing] and sterility assurance. You should use Tryptic Soy Agar (TSA)[^1] as your growth medium. If you have the ability and means to use Fluid Thioglycolate Medium (FTM) then you should use it _in addition_ to TSA for your sterility testing.[^2] USP 71 says that _both_ TSA and FTM need to be used for sterilization tests, however, FTM is expensive and difficult to procure and so we have opted to leave it out of this guide.
 
 Your TSA plates for fingertip testing and for sterility testing need to be prepared slightly differently. Make [TSA with neutralizers] for fingertip testing.[^1] Make without neutralizers for sterility assurance tests. Neutralizers polysorbate 80 and lecithin are used in combination with the TSA to "to neutralize the effects of disinfecting agents"[^3]
 
