@@ -9,23 +9,23 @@ parent: Guide
 
 ## Final Sterilization
 
-There is a vast misconception that putting closed and finished vials into your autoclave will sterilize them. Because the vial is sealed and cannot be penetrated by steam, there is no veracity to this claim. The heat generated from your autoclave alone is not sufficient to sterilize the inside of the vial. See [this page] for more info. 
+There is a vast misconception that putting closed and finished vials into your autoclave will sterilize them. Because the vial is sealed and cannot be penetrated by steam, there is no veracity to this claim. The heat generated from your autoclave alone is not sufficient to sterilize the inside of the vial. See [this page] for more info.
 
-Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. If you're superstitious or whatever and wanna do a final step, you can throw these in the autoclave for 30-60 minutes, but as far as we can tell it won't do much. 
+Therefore, you do not need to take any final sterilization steps if you followed the previous steps precisely. If you're superstitious or whatever and wanna do a final step, you can throw these in the autoclave for 30-60 minutes, but as far as we can tell it won't do much.
 
 ## Making a Record
 
 It's important that you have a written record of everything you did with this brew. This is an **extremely important** quality control technique.
 
-* The ingredients and supplies used, where they were acquired, when they were acquired, and their lot/batch numbers if available
+* The ingredients and supplies used, where and when they were acquired, and their lot/batch numbers if available
 * The items that were sanitized, sterilized, and depyrogenated
 * The temperature, time length, and technique that was used for those "cleanings"
 * Bubble point test info
 * Outcome of fingertip<sup>+</sup> and sterility testing<sup>+</sup>
 * As much as you can write about exactly what you did
-* Anything else you can think of. 
+* Anything else you can think of
 
-This data should be given a **Batch Number**. If you encounter any problems with any of your vials down the line, you can look at the batch number and review the process and ingredients. 
+This data should be given a **Batch Number**. If you encounter any problems with any of your vials down the line, you can look at the batch number and review the process and ingredients.
 
 ## Labeling
 
@@ -44,13 +44,13 @@ Optionally you might add
 
 Here's an example of something we might use:
 
-![](/assets/images/vial_label.jpg)
+![An image depicting an HRT Cat-branded vial label. The label has the name of the medication, the concentration, volume, and excipients. It also has a picture of a cat girl :3](/assets/images/vial_label.jpg)
 
 ## Check status of tests
 
-If you preformed fingertip testing and final sterility testing #TODO
+If you performed fingertip testing and final sterility testing #TODO
 
-## All done :) 
+## All done :)
 
 ---
 
@@ -59,5 +59,5 @@ If you preformed fingertip testing and final sterility testing #TODO
 [&larr; 7. Bubble Point Testing]{: .btn .btn-purple }
 
 [this page]: /other/lena
-[fingertip testing here]: /topics/fingertip_testing
+<!-- [fingertip testing here]: /topics/fingertip_testing #TODO unused -->
 [&larr; 7. Bubble Point Testing]: /guides/7_bubble_point

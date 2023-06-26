@@ -7,10 +7,10 @@ parent: Guide
 
 # Filter and Dispense Solution
 
-If you are going to do a final sterility test<sup>+</sup> be sure to supplement the information in this section with the information in the one just below. 
+If you are going to do a final sterility test<sup>+</sup> be sure to supplement the information in this section with the information in the one just below.
 
 {: .caution }
-Verify what volume of liquid your filters are rated to work on. Do not exceed the manufacturer's recommendation. In general if you're filtering 1-10mL, use a 13mm filter, 10-100mL use a 25mm filter, 100m-250mL use a 33mm filter[^3]. So for example, if you have 25mm syringe filters, and you're filtering 250mL of your preparation, you're going to need to use 3 filters in total. If you're working with too much preparation for this to be practical consider switching to a [vacuum pump and bottle top filters]. We are unclear on how to conduct DIY [bubble point tests] on bottle top filters. 
+Verify what volume of liquid your filters are rated to work on. Do not exceed the manufacturer's recommendation. In general if you're filtering 1-10mL, use a 13mm filter, 10-100mL use a 25mm filter, 100m-250mL use a 33mm filter[^3]. So for example, if you have 25mm syringe filters, and you're filtering 250mL of your preparation, you're going to need to use 3 filters in total. If you're working with too much preparation for this to be practical consider switching to a [vacuum pump and bottle top filters]. We are unclear on how to conduct DIY [bubble point tests] on bottle top filters.
 
 You should be working inside your still air box or laminar flow hood. Your hands/gloves/etc and everything need to be fully clean. We lightly spray our gloves with IPA 70% and rub together to sanitize.
 
@@ -19,9 +19,9 @@ At this point your glass vials and the vial stoppers should still be wrapped/cov
 Attach a large gauge needle to a large[^1], freshly unwrapped, and sterile syringe. Insert into the mixture and draw it up. With clean hands remove the needle and attach a sterile syringe filter to the syringe and a new, clean, large gauge needle on the end of the filter to help direct the flow successfully into the vials.
 
 {: .warning :}
-You must apply a lot of pressure on the syringe plunger to push the preparation though the filter, however **do not overdo it**. It is possible to break the filter without knowing and thereby not properly sterilizing the preparation. We will verify we didn't break the filter on the next step. 
+You must apply a lot of pressure on the syringe plunger to push the preparation though the filter, however **do not overdo it**. It is possible to break the filter without knowing and thereby not properly sterilizing the preparation. We will verify we didn't break the filter on the next step.
 
-Grab a single vial and fill it up with your preparation. Remember that the syringe filter needs to be primed, so it will eat some mixture when filling the first one. Immediately grab a depyrogenated vial stopper and place it on the filled vial.  
+Grab a single vial and fill it up with your preparation. Remember that the syringe filter needs to be primed, so it will eat some mixture when filling the first one. Immediately grab a depyrogenated vial stopper and place it on the filled vial.
 
 Do this for each vial, placing the stopper on each one after filling until you've used up all your mixture. If you have a lab partner they can use the vial capper and put the cap on as soon as the stopper is in place. Otherwise, this can be done by you once all the stoppers are on all vials.
 
@@ -29,7 +29,7 @@ When your syringe needs to be refilled, use a clean hand to unscrew the filter a
 
 ## Sterility Test<sup>+</sup>
 
-If you are going to do a final sterility test<sup>+</sup>, you need to determine what total volume of your final preparation[^2] you're going to run the test on. 
+If you are going to do a final sterility test<sup>+</sup>, you need to determine what total volume of your final preparation[^2] you're going to run the test on.
 
 | Total Volume of Preparation | Volume to Test   |
 |-----------------------------|------------------|
@@ -38,17 +38,17 @@ If you are going to do a final sterility test<sup>+</sup>, you need to determine
 | 40-100mL                    | 20mL             |
 | > 100mL                     | 10% (min. 20mL)  |
 
-Any volume you're not using for sterility testing will be filtered directly into vials just like usual. The remaining liquid should be filtered into a sterile flask. Then, using a new sterile syringe, a new sterile filter, new sterile needles, you draw that fluid back up and **re-filter it**. This second pass filtration can be done with a 0.45μm filter to make it easier, but 0.22μm is okay too if that's all you have. 
+Any volume you're not using for sterility testing will be filtered directly into vials just like usual. The remaining liquid should be filtered into a sterile flask. Then, using a new sterile syringe, a new sterile filter, and new sterile needles, you draw that fluid back up and **re-filter it**. This second pass filtration can be done with a 0.45μm filter to make it easier, but 0.22μm is okay too if that's all you have.
 
-The 2nd pass can be filtered directly into the vials. 
+The 2nd pass can be filtered directly into the vials.
 
-Set aside the 2nd pass filter(s) for now, you will preform the sterility testing on them later. The reasoning is that the 1st pass filter should have collected any contamination, making the 2nd pass filter in theory pointless. If we are unable to grow bacteria off of the 2nd pass filter, then we have validated the efficacy of the 1st pass. This will serve as validation for a sterile, contamination free batch.
+Set aside the 2nd pass filter(s) for now, you will perform the sterility testing on them later. The reasoning is that the 1st pass filter should have collected any contamination, making the 2nd pass filter in theory pointless. If we are unable to grow bacteria off of the 2nd pass filter, then we have validated the efficacy of the 1st pass. This will serve as validation for a sterile, contamination-free batch.
 
 ## Cap Vials
 
-Now that all the vials have their stoppers you should place a sterilized vial cap onto each one. Then go around with a crimper (or a makeshift crimper) and seal each one. 
+Now that all the vials have their stoppers you should place a sterilized vial cap onto each one. Then go around with a crimper (or a makeshift crimper) and seal each one.
 
-This concludes the actual creation of the vials. We will do a couple extra steps now to ensure safety.
+This concludes the actual creation of the vials. We will do a couple of extra steps now to ensure safety.
 
 ---
 

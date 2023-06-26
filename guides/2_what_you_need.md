@@ -45,7 +45,7 @@ OR
 * Vial crimper (that will fit your vial size, i.e. 13mm or 20mm)
 * Table that can be sanitized to work on (don't work directly on wood)
 * Oven that reaches 250°C/482°F
-  *  Oven thermometer to verify temps in your oven
+  * Oven thermometer to verify temps in your oven
 * Baking sheet/tray/dish
 * Spray bottle for the IPA
 * HEPA Air purifier<sup>+</sup>
@@ -71,11 +71,11 @@ OR
 
 ## Notes
 
-<sup>+</sup>Indicates that the use of this item is going above and beyond what people who are brewing for just themselves likely need to engage in. If you are brewing to distribute, either for mutual aid or for sale, we encourage you to follow these extra steps to ensure the safety of those who are receiving your vials. If you're brewing for yourself and you're immunocompromised, you may consider investing in these additional items as well. There is no data that says where the line is, so we err towards conservative safety.  
+<sup>+</sup>Indicates that the use of this item is going above and beyond what people who are brewing for just themselves likely need to engage in. If you are brewing to distribute, either for mutual aid or for sale, we encourage you to follow these extra steps to ensure the safety of those who are receiving your vials. If you're brewing for yourself and you're immunocompromised, you may consider investing in these additional items as well. There is no data that says where the line is, so we err towards conservative safety.
 
 ---
 
-[^1]: [Biological indicators] are currently out of scope until we can find a way to lower cost. All indicators we can find for sale come in packages of hundreds. [Contact us] if you know more.  
+[^1]: [Biological indicators] are currently out of scope until we can find a way to lower cost. All indicators we can find for sale come in packages of hundreds. [Contact us] if you know more.
 
 [ester of choice]: /topics/esters_compared
 [tested]: /topics/hormone_testing
@@ -83,7 +83,7 @@ OR
 [read more]: /topics/choosing_oil
 [choosing size]: /topics/vial_size_concentration
 [how to choose]: /topics/choosing_filter
-[fingertip testing]: /topics/fingertip_testing
+<!-- [fingertip testing]: /topics/fingertip_testing #TODO unused-->
 [how to make at home]: /topics/make_agar
 [Biological indicators]: /topics/biological_indicators
 [more]: /topics/biological_indicators#indicator-strips

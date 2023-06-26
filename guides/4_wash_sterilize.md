@@ -42,7 +42,7 @@ Anything you couldn't put in the oven or autoclave should be sanitized with 70% 
 
 ## Fingertip Testing<sup>+</sup>
 
-If you are going to do fingertip testing<sup>+</sup>, now is the time to take the before sample. [How to preform fingertip testing]. 
+If you are going to do fingertip testing<sup>+</sup>, now is the time to take the before sample. [How to perform fingertip testing].
 
 ---
 
@@ -53,11 +53,10 @@ If you are going to do fingertip testing<sup>+</sup>, now is the time to take th
 
 ---
 
-
 ## References and Notes
 
 [^1]: _Compounding Sterile Preparations_ page 274
-[^2]: If a vial is 25°C, and you put it in the oven, it won't instantly become 250°C. Therefore, you need to give it time to get up to temp.  
+[^2]: If a vial is 25°C, and you put it in the oven, it won't instantly become 250°C. Therefore, you need to give it time to get up to temp.
 [^3]: [DEPYROGENATION OF PHARMACEUTICAL PACKAGING COMPONENTS](https://www.dwkltd.com/pub/media/wysiwyg/literature/DWK-Depyrogenation-of-Pharmaceutical-Packaging-Components-UK-A42022.pdf)
 [^4]: _Compounding Sterile Preparations_ pages 253-254
 
@@ -65,7 +64,7 @@ If you are going to do fingertip testing<sup>+</sup>, now is the time to take th
 
 [Wipe down everything with isopropyl alcohol 70%]: /topics/alcohol_technique
 [this page]: /topics/instant_pot
-[How to preform fingertip testing]: /topics/fingertip_testing
+[How to perform fingertip testing]: /topics/fingertip_testing
 
 [&larr; 3. Prepare Work Area]: /guides/3_work_area
 [5. Mix Solution &rarr;]: /guides/5_mix_solution
