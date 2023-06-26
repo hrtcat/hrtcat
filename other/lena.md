@@ -9,15 +9,15 @@ parent: Other
 
 It is not our intention to shit all over another trans woman, especially one who serves the trans community so broadly. Lena has surely saved many lives through her work of distributing hormones, and then many more so with all the people she has inspired in the DIY community. However, we have to understand that the information she is providing the community with is outdated and no longer should be considered safe. Just look at common methodology for the steroid homebrewing community to see that these methods are out of date.
 
-While Lena has a strong point that the pharmaceutical industry and its standards are driven by profit, we need to also consider that death is a _very real_ possibility as a result of injecting a contaminated vial. Just because we're not aware of this having had happened it does not mean it's not possible. We should take measures to protect everyone using our vials to the best of our ability.
+While Lena has a strong point that the pharmaceutical industry and its standards are driven by profit, we need to also consider that death is a _very real_ possibility as a result of injecting a contaminated vial. Just because we're not aware of this having happened does not mean it's not possible. We should take measures to protect everyone using our vials to the best of our ability.
 
-Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could *theoretically* be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. we're pasting it below.
+Lena uses a single method of sterilization. Because it is the final step in her process, aka terminal sterilization, this could _theoretically_ be #goodenough (though far below USP standards). Unfortunately there is a fatal flaw in the logic of her terminal sterilization. we're pasting it below.
 
->I heat already mixed solution in sealed vials in an autoclave under pressure 165 kPa = 24 PSI at temperature 129°C (overkill - more than recommended 121°C) for 30 min<sup>1</sup>
+> I heat already mixed solution in sealed vials in an autoclave under pressure 165 kPa = 24 PSI at temperature 129°C (overkill - more than recommended 121°C) for 30 min<sup>1</sup>
 
-On Lena's community guide for homebrewing [there are even more relaxed suggestions regarding sterilization](https://groups.io/g/MTFHRT/wiki/29602#Sterilize).
+On Lena's community guide for homebrewing, [there are even more relaxed suggestions regarding sterilization](https://groups.io/g/MTFHRT/wiki/29602#Sterilize).
 
-The numbers she is stating here are accurate means of sterilization when using an autoclave. However, once the vials are sealed, putting them in the autoclave is pointless. All you are doing is sterilizing the outside. 
+The numbers she is stating here are accurate means of sterilization when using an autoclave. However, once the vials are sealed, putting them in the autoclave is pointless. All you are doing is sterilizing the outside.
 
 **Compounding Sterile Preparations** states:
 
@@ -25,17 +25,17 @@ The numbers she is stating here are accurate means of sterilization when using a
 
 Keep in mind there should be NO water inside the vials for HRT preparations. The recipe we recommend is just hormone ester, MCT oil, benzyl benzoate, and a very small amount of benzyl alcohol.
 
-**Ethide Labs states**:
+**Ethide Labs** states:
 
 > oils or enclosed dry systems cannot effectively be terminally sterilized by moist heat as steam cannot reach these items... Any sealed or covered container must have some degree of moisture inside the sealed or covered system. Otherwise, steam cannot penetrate the container, and the container’s interior will not be appropriately sterilized.<sup>3</sup>
 
-**Pharmaceutical Engineering**: 
+**Pharmaceutical Engineering**:
 
 > Direct steam contact with the surface of the object to be sterilized is required for the steam to transfer its stored energy to the object. Without direct steam contact to all surfaces, the item will not be sterilized. The amount of energy stored in steam is much higher than dry air or water at the same temperature... additional energy stored in the steam is... the key to steam sterilization. In order for the steam to transfer its stored energy, it must condense on the surface of the object being sterilized.<sup>4</sup>
 
-An autoclave works by introducing surfaces to pressurized, saturated steam. It is not just pressure + temperature that causes autoclaves to work, the steam is an essential component. How do you expect pressurized steam to get inside the vial? If you are compounding an aqueous solution, then when the autoclave reaches 120C, the water inside the solution hit 120C as well, it will be unable to boil and will pressurize, release steam, and sterilize the inside of the container. But because hormone esters are not soluble in water, and use an oil as a base, this doesn't work.
+An autoclave works by introducing surfaces to pressurized, saturated steam. It is not just pressure plus temperature that causes autoclaves to work, the steam is an essential component. How do you expect pressurized steam to get inside the vial? If you are compounding an aqueous solution, then when the autoclave reaches 120C, the water inside the solution hit 120C as well, it will be unable to boil and will pressurize, release steam, and sterilize the inside of the container. But because hormone esters are not soluble in water, and use an oil as a base, this doesn't work.
 
-Making sterility mistakes seems to not be life or death most of the time. However, you are introducing a foreign substance into your flesh, you should have a high degree of confidence that what you're doing is safe. This is infinitely more important when you are distributing what you are creating. You do not know if your vial contains a [deadly fungal meningitis](https://en.wikipedia.org/wiki/New_England_Compounding_Center_meningitis_outbreak_). You do not know when your vial is going to be used by someone who is immunocompromised. 
+Making sterility mistakes seems to not be life or death most of the time. However, if you are introducing a foreign substance into your flesh, you should have a high degree of confidence that what you're doing is safe. This is infinitely more important when you are distributing what you are creating. You do not know if your vial contains a [deadly fungal meningitis](https://en.wikipedia.org/wiki/New_England_Compounding_Center_meningitis_outbreak). You do not know when your vial is going to be used by someone who is immunocompromised.
 
 ## References
 
