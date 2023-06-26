@@ -10,13 +10,13 @@ parent: Guide
 If you are going to do a final sterility test<sup>+</sup> be sure to supplement the information in this section with the information in the one just below.
 
 {: .caution }
-Verify what volume of liquid your filters are rated to work on. Do not exceed the manufacturer's recommendation. In general if you're filtering 1-10mL, use a 13mm filter, 10-100mL use a 25mm filter, 100m-250mL use a 33mm filter[^3]. So for example, if you have 25mm syringe filters, and you're filtering 250mL of your preparation, you're going to need to use 3 filters in total. If you're working with too much preparation for this to be practical consider switching to a [vacuum pump and bottle top filters]. We are unclear on how to conduct DIY [bubble point tests] on bottle top filters.
+Verify what volume of liquid your filters are rated to work on. Do not exceed the manufacturer's recommendation. In general if you're filtering 1-10mL, use a 13mm filter, 10-100mL use a 25mm filter, 100m-250mL use a 33mm filter.[^3] So for example, if you have 25mm syringe filters, and you're filtering 250mL of your preparation, you're going to need to use 3 filters in total. If you're working with too much preparation for this to be practical consider switching to a [vacuum pump and bottle top filters]. We are unclear on how to conduct DIY [bubble point tests] on bottle top filters.
 
 You should be working inside your still air box or laminar flow hood. Your hands/gloves/etc and everything need to be fully clean. We lightly spray our gloves with IPA 70% and rub together to sanitize.
 
 At this point your glass vials and the vial stoppers should still be wrapped/covered after their depyrogenation/sterilization process.
 
-Attach a large gauge needle to a large[^1], freshly unwrapped, and sterile syringe. Insert into the mixture and draw it up. With clean hands remove the needle and attach a sterile syringe filter to the syringe and a new, clean, large gauge needle on the end of the filter to help direct the flow successfully into the vials.
+Attach a large gauge needle to a large,[^1] freshly unwrapped, and sterile syringe. Insert into the mixture and draw it up. With clean hands remove the needle and attach a sterile syringe filter to the syringe and a new, clean, large gauge needle on the end of the filter to help direct the flow successfully into the vials.
 
 {: .warning :}
 You must apply a lot of pressure on the syringe plunger to push the preparation though the filter, however **do not overdo it**. It is possible to break the filter without knowing and thereby not properly sterilizing the preparation. We will verify we didn't break the filter on the next step.

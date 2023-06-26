@@ -16,12 +16,12 @@ We have no firm opinions on the recipes listed below except that we would be hes
 
 | Ingredient           | Density                   |
 |:---------------------|---------------------------|
-| Estradiol Enanthate  | 1.1±0.1 g/mL[^13] |
-| Benzyl Benzoate      | 1.118 g/mL[^9]    |
-| Benzyl Alcohol       | 1.044 g/mL[^10]   |
-| C8 Acid<sup>*</sup>  | 0.910 g/mL[^11]   |
-| C10 Acid<sup>*</sup> | 0.893 g/mL[^12]   |
-| Castor Oil           | 0.96 [g/mL][^14]  |
+| Estradiol Enanthate  | 1.1±0.1 g/mL[^13]         |
+| Benzyl Benzoate      | 1.118 g/mL[^9]            |
+| Benzyl Alcohol       | 1.044 g/mL[^10]           |
+| C8 Acid<sup>*</sup>  | 0.910 g/mL[^11]           |
+| C10 Acid<sup>*</sup> | 0.893 g/mL[^12]           |
+| Castor Oil           | 0.96 [g/mL][^14]          |
 
 Use this chart to help you convert the below recipes from how they're listed into usable volumetric measurements.
 
@@ -49,8 +49,8 @@ Some recipes list ingredients in different units of measurement. Look out for `m
 
 > By Par Pharmaceutical,[^1] **40mg/mL**:
 * E V: 40mg (4%)
-* Benzyl benzoate: 447mg (43%) (0.4mL) 
-* Benzyl alcohol: 20mg (2%) (0.02mL) 
+* Benzyl benzoate: 447mg (43%) (0.4mL)
+* Benzyl alcohol: 20mg (2%) (0.02mL)
 * Castor oil: 522mg (51%) (0.54mL)
 
 ### **Estradiol Cypionate**
@@ -135,7 +135,7 @@ Some recipes list ingredients in different units of measurement. Look out for `m
 
 ## Notes
 
-<sup>†</sup>[Chlorobutanol](https://en.wikipedia.org/wiki/Chlorobutanol) is a preservative, and as far as we can tell does not act as a solvent. We will use benzyl alcohol instead of this primarily because it is much more readily available, and that's what all the other homebrewers do. If you decide to brew with this stuff make sure you check through all the MSDS to ensure its safe to be handling outside a lab. 
+<sup>†</sup>[Chlorobutanol](https://en.wikipedia.org/wiki/Chlorobutanol) is a preservative, and as far as we can tell does not act as a solvent. We will use benzyl alcohol instead of this primarily because it is much more readily available, and that's what all the other homebrewers do. If you decide to brew with this stuff make sure you check through all the MSDS to ensure its safe to be handling outside a lab.
 
 <sup>††</sup>While it's cool to have a single vial last you for a year, as soon as you start puncturing a vial you should aim to use it within a couple of months. When you use it over and over again you risk introducing harmful bacteria to the vial, and then giving it time to grow.
 

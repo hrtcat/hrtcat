@@ -20,10 +20,10 @@ For this reason, **we urge you** to conduct a bubble point test to ensure that y
 4. Submerge the needle in a cup of tap water. Slowly exert pressure onto the plunger, attempting to push air through the filter. When the needle starts emitting a _steady_ stream of air bubbles record the volume marked on the syringe, `D`.
 5. You should have the below values:
 
-`A` - Rated bubble point pressure
-`B` - Current air pressure
-`C` - Starting volume
-`D` - Actual bubble point volume
+`A` - Rated bubble point pressure  
+`B` - Current air pressure  
+`C` - Starting volume  
+`D` - Actual bubble point volume  
 
 Go to the [Boyle's Law Calculator] and input your values. Initial pressure is `B`. Initial volume is `C`. Final volume is `D`. Make sure you're using the correct units of measurement.
 
