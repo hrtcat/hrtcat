@@ -28,10 +28,10 @@ If, on the other hand, the data shows that the vials are not sterile, we can use
 
 ## Methods
 
-`Group A` - Boil for 30 minutes.
-`Group B` - Autoclave for 30 minutes.
-`Group C` - Flask in oven @ 230°C for 30 minutes (fire risk)
-`Group D` - Syringe filter
-`Group E` - HRT Cat method
+`Group A` - Boil for 30 minutes.  
+`Group B` - Autoclave for 30 minutes.  
+`Group C` - Flask in oven @ 230°C for 30 minutes (fire risk)  
+`Group D` - Syringe filter  
+`Group E` - HRT Cat method  
 
 [Critical analysis of most homebrew methods]: /other/properly_sterilized

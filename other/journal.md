@@ -184,10 +184,10 @@ Steam sterilization (autoclave) is considered terminal sterilization, it can be 
 
 There is a formula that will let you determine temperature/time/pressure ratios.
 
-D = decimal reduction time (minutes). time to reduce microbial population by 90%
-T = temperature
-Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. We get what this means but not really how to find the needed values.
-F<sub>0</sub> = idk?? it says this is a value but doesn't actually define it.
+D = decimal reduction time (minutes). time to reduce microbial population by 90%  
+T = temperature  
+Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. We get what this means but not really how to find the needed values.  
+F<sub>0</sub> = idk?? it says this is a value but doesn't actually define it.  
 
 100 microbes in a solution, reduced by 1D, 10 microbes left.
 
