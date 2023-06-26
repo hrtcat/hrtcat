@@ -63,14 +63,14 @@ Some recipes list ingredients in different units of measurement. Look out for `m
 ### **Testosterone Cypionate**
 
 > By Xiromed,[^3] **100mg/mL**:
-* T C: 100mg
+* Test C: 100mg
 * Benzyl Benzoate: 0.1mL
 * Cottonseed oil: 732.79mg
 * Benzyl alcohol: 9.45mg
 
 > By Xiromed,[^3] **200mg/mL**:
 > 1mL = 989.29g
-* T C: 200mg (20%)
+* Test C: 200mg (20%)
 * Benzyl Benzoate: 0.2mL (223.6mg) (23%)
 * Cottonseed oil: 556.24mg (56%)
 * Benzyl alcohol: 9.45mg (1%)
@@ -83,7 +83,7 @@ Some recipes list ingredients in different units of measurement. Look out for `m
 ### **Testosterone Enanthate**
 
 > By Hikma Pharmaceuticals,[^4] **200mg/mL**:
-* T E: 200mg
+* Test E: 200mg
 * Chlorobutanol<sup>†</sup>: 5mg
 * USP sesame oil base
 
