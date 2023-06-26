@@ -17,7 +17,7 @@ All glassware and vials must be [depyrogenated](/topics/sanitize_sterilize_depyr
 
 Preheat your oven to 250°C/485°F for depyrogenation. You should have an oven thermometer inside your oven to verify that you're at the right temperature. Hotter is okay.
 
-Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. We do this by dunking everything into a large pot of warm soapy water, shaking each vial underwater back and forth and then rinsing well with cold, distilled water. 
+Before you can depyrogenate your vials you need to wash them out to ensure that they are free from debris. We do this by dunking everything into a large pot of warm soapy water, shaking each vial underwater back and forth and then rinsing well with cold, distilled water.
 
 No need to let the vials air/drip dry. If you used distilled water to rinse then it will leave to residue when you put it in the oven. Wrap your vials and glassware in aluminum foil in a way that will let steam escape but not let dust etc fall in, e.g. loosely fitted hats. Once your oven is at temperature put the items inside. You need to let the items get to the correct 250°C temp[^2], and then _once_ they are at temp you should bake for at least 30 minutes[^3]. It is difficult to determine when the items are at 250°, if you have a laser thermometer you could use that. Otherwise, we recommend you be play it very safe and give it an hour to get up to temp. This means you would have the items in the oven for 90 minutes after pre-heating.
 
@@ -28,9 +28,9 @@ Once the time is up transfer the tray with the still wrapped glassware from the 
 {: .warning }
 If you are using a pressure cooker to sterilize instead of an autoclave you should be sure to read [this page].
 
-Items that can't be depyrogenated in the oven should be sterilized in the autoclave. While vial caps and stoppers are typically depyrogenated with pressurized Water For Injections (WFI) that is currently beyond the scope of what we feel we can achieve at home (if you're distributing your vials please consider learning how to do this). 
+Items that can't be depyrogenated in the oven should be sterilized in the autoclave. While vial caps and stoppers are typically depyrogenated with pressurized Water For Injections (WFI) that is currently beyond the scope of what we feel we can achieve at home (if you're distributing your vials please consider learning how to do this).
 
-Wrap items in foil in a way that will allow steam penetration but will help keep them protected from microbes in the air when you remove them. 
+Wrap items in foil in a way that will allow steam penetration but will help keep them protected from microbes in the air when you remove them.
 
 Vial caps, stoppers, vial crimper (if it fits and if it's rated for autoclaves), any utensils etc that didn't go in the oven.
 

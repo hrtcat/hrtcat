@@ -15,8 +15,8 @@ These seemed like a good idea due to their high heat resistance and therefore th
 
 This is of much higher concern than a stopper that did not undergo depyrogenation. we are switching the guide back to using butyl rubber. We will use a minimum of autoclaving the stoppers for a sterilization cycle. We will look further into using pressurized WFI at home to depyrogenate. This is probably out of reach or asking too much of the average homebrewer. we're sad to have lost this easy method but grateful no vials have been produced with the silicone stoppers.
 
-* [BB + Silicone are a bad match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=268)  
-* [BA + Silicone are a good match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=267)  
+* [BB + Silicone are a bad match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=268)
+* [BA + Silicone are a good match](https://www.marcorubber.com/o-ring-chemical-compatibility-chart.htm#chemId=267)
 * [BA evaporates through silicone barriers](https://doi.org/10.1016/j.ejpb.2016.11.021)
 * [Silicone absorbs MCT oil](https://recipesfaqs.com/does-mct-oil-break-down-silicone/) (no sources cited)
 
@@ -184,9 +184,9 @@ Steam sterilization (autoclave) is considered terminal sterilization, it can be 
 
 There is a formula that will let you determine temperature/time/pressure ratios.
 
-D = decimal reduction time (minutes). time to reduce microbial population by 90%  
-T = temperature  
-Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. We get what this means but not really how to find the needed values.  
+D = decimal reduction time (minutes). time to reduce microbial population by 90%
+T = temperature
+Z = number of degrees of temp required to change D-value one log unit in time by a factor of 10. If D at 121C is 2 minutes, and the z-value is 10C, then D at 131C is 0.2 minutes. We get what this means but not really how to find the needed values.
 F<sub>0</sub> = idk?? it says this is a value but doesn't actually define it.
 
 100 microbes in a solution, reduced by 1D, 10 microbes left.

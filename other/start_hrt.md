@@ -58,7 +58,7 @@ Always sanitize the vial septum with a sterile alcohol swab before drawing your 
 
 ## Making your own injectables and topicals
 
-Buddy, you're in the right place. Head on over to [The Guide](/guide) for instructions on how to brew your own injectables. This is the most comprehensive, well-researched guide on the English speaking internet regarding making your own injectables, or your money back.  
+Buddy, you're in the right place. Head on over to [The Guide](/guide) for instructions on how to brew your own injectables. This is the most comprehensive, well-researched guide on the English speaking internet regarding making your own injectables, or your money back.
 
 If you want to make your own topicals, it's super easy! We'll have a guide on this site soon, but in the meantime take a look at the [r/Estrogel wiki](https://www.reddit.com/r/estrogel/wiki/index/). The recipes here work for both estradiol and testosterone, though if using T you will need to adjust the recipe as it requires many more mg per g than E for proper dosing.
 
