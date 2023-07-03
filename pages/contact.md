@@ -6,8 +6,55 @@ nav_order: 100
 
 # Contact
 
+## hrtcat [at] proton [dot] me
+
 We encourage feedback about this guide. If you would like to contact us in order to correct some information or to offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email daily.
 
 We do accept requests for clarification when it feels the info we've provided is lacking. We do not give individualized advice outside the scope of this guide.
 
 If you're willing to make needed changes to this site yourself please see the page on [contributing](/pages/contribute).
+
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+HfEHUVT1d0LdJH09lClLAFSx
+=Hw+0
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
