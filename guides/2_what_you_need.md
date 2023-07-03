@@ -16,7 +16,7 @@ parent: Guide
 
 ## Vials
 
-* 2mL glass vials ([choosing size])
+* 3mL glass vials ([choosing size])
 * Vial caps (make sure right size for vial)
 * Butyl rubber vial stoppers (make sure right size for vial)
 
@@ -27,7 +27,7 @@ OR
 ## Disposables
 
 * Large sterile luer lock syringes to use with filtration (10-50mL, larger is more difficult to push because math)
-* Sterile 0.22μm PVDF syringe filters ([how to choose])
+* Sterile 0.22μm hydrophilic PTFE syringe filters ([how to choose])
 * Isopropyl alcohol 70% (IPA) (higher percentage is NOT better, use 70%)
 * Disinfecting hand soap
 * Aluminum foil
