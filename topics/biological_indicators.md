@@ -14,7 +14,7 @@ This will remain a "wishlist" item for now.
 
 ## Indicator Strips
 
-There is an alternative to biological indicators called "indicator strips" and these are much more readily available at consumer pricing. The difference is that they aren't using actual microbes to indicate if sterilization was effective, they are instead measure steam/heat/pressure all to certain thresholds. This is mostly adequate if your autoclave is using standard parameters. However, if you're using something [like a pressure cooker] then your standard heat and pressure parameters might not get met, and instead made up for by increasing time. While this is a valid method of sterilization these strips won't trigger as you won't meet their parameters. 
+There is an alternative to biological indicators called "indicator strips" and these are much more readily available at consumer pricing. The difference is that they aren't using actual microbes to indicate if sterilization was effective, they are instead measuring steam/heat/pressure all to certain thresholds. This is mostly adequate if your autoclave is using standard parameters. However, if you're using something [like a pressure cooker] then your standard heat and pressure parameters might not get met, and instead made up for by increasing time. While this is a valid method of sterilization these strips won't trigger as you won't meet their parameters.
 
 If you purchased an autoclave off ebay or something though, then these indicator strips would work great for you.
 

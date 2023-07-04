@@ -7,7 +7,7 @@ parent: Other
 
 # Guide Summary
 
-This is an example of the exact procedure we preform when brewing in order to help us have a quick reference sheet. It contains no explanations and just has day-of procedures. 
+This is an example of the exact procedure we perform when brewing in order to help us have a quick reference sheet. It contains no explanations and just has day-of procedures.
 
 * Clear work area
 * Sweep and mop
@@ -25,7 +25,7 @@ This is an example of the exact procedure we preform when brewing in order to he
 * Wipe down everything else with IPA
 * Setup laminar flow hood, leave on
 * Remove items from oven and autoclave, stage in clean room
-* Preform fingertip testing
+* Perform fingertip testing
 * Inside flow hood, mix in beaker:
   * ____mL MCT oil
   * ____mL Benzyl Alcohol

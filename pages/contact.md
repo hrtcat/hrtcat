@@ -8,14 +8,13 @@ nav_order: 100
 
 ## hrtcat [at] proton [dot] me
 
-We encourage feedback about this guide. If you would like to contact us in order to correct some information or to offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email daily.
+We encourage feedback about this guide. If you would like to contact us to correct some information or offer suggestions please email us at hrtcat [at] proton [dot] me. We do not check this email daily.
 
 We do accept requests for clarification when it feels the info we've provided is lacking. We do not give individualized advice outside the scope of this guide.
 
 If you're willing to make needed changes to this site yourself please see the page on [contributing](/pages/contribute).
 
-
-```
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBGSjPE8BDADfJUX6NQM1+JN2RgehgSBuot7NLAxmOp0Ce7bVxsiWShzka6Hr
 LdT2h/YCqTlllgkOdAdmgPObYMxtZ6PiOdqo0ogP4eJGAjkEE65qTVDQ3lvO2Z16
@@ -56,5 +55,4 @@ IPF0p9UL813usmkekuC3ergq/p9T/m7hHPT1WarvDpQDKCWSS9UfS0cPB9vQUxJ/
 HfEHUVT1d0LdJH09lClLAFSx
 =Hw+0
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```

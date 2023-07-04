@@ -20,7 +20,7 @@ You should be working inside your still air box or laminar flow hood. Your hands
 
 At this point your glass vials and the vial stoppers should still be wrapped/covered after their depyrogenation/sterilization process.
 
-Attach a large gauge needle to a large[^1], freshly unwrapped, and sterile syringe. Insert into the mixture and draw it up. With clean hands remove the needle and attach a sterile syringe filter to the syringe and a new, clean, large gauge needle on the end of the filter to help direct the flow successfully into the vials.
+Attach a large gauge needle to a large,[^1] freshly unwrapped, and sterile syringe. Insert into the mixture and draw it up. With clean hands remove the needle and attach a sterile syringe filter to the syringe and a new, clean, large gauge needle on the end of the filter to help direct the flow successfully into the vials.
 
 Grab a single vial and fill it up with your preparation. Remember that the syringe filter needs to be primed, so it will eat some mixture when filling the first one. Immediately grab a depyrogenated vial stopper and place it on the filled vial.  
 
@@ -39,17 +39,17 @@ If you are going to do a final sterility test<sup>+</sup>, you need to determine
 | 40-100mL                    | 20mL             |
 | > 100mL                     | 10% (min. 20mL)  |
 
-Any volume you're not using for sterility testing will be filtered directly into vials just like usual. The remaining liquid should be filtered into a sterile flask. Then, using a new sterile syringe, a new sterile filter, new sterile needles, you draw that fluid back up and **re-filter it**. This second pass filtration can be done with a 0.45μm filter to make it easier, but 0.22μm is okay too if that's all you have.
+Any volume you're not using for sterility testing will be filtered directly into vials just like usual. The remaining liquid should be filtered into a sterile flask. Then, using a new sterile syringe, a new sterile filter, and new sterile needles, you draw that fluid back up and **re-filter it**. This second pass filtration can be done with a 0.45μm filter to make it easier, but 0.22μm is okay too if that's all you have.
 
 The 2nd pass can be filtered directly into the vials.
 
-Set aside the 2nd pass filter(s) for now, you will preform the sterility testing on them later. The reasoning is that the 1st pass filter should have collected any contamination, making the 2nd pass filter in theory pointless. If we are unable to grow bacteria off of the 2nd pass filter, then we have validated the efficacy of the 1st pass. This will serve as validation for a sterile, contamination free batch.
+Set aside the 2nd pass filter(s) for now, you will perform the sterility testing on them later. The reasoning is that the 1st pass filter should have collected any contamination, making the 2nd pass filter in theory pointless. If we are unable to grow bacteria off of the 2nd pass filter, then we have validated the efficacy of the 1st pass. This will serve as validation for a sterile, contamination-free batch.
 
 ## Cap Vials
 
 Now that all the vials have their stoppers you should place a sterilized vial cap onto each one. Then go around with a crimper (or a makeshift crimper) and seal each one.
 
-This concludes the actual creation of the vials. We will do a couple extra steps now to ensure safety.
+This concludes the actual creation of the vials. We will do a couple of extra steps now to ensure safety.
 
 ---
 
