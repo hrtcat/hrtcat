@@ -11,3 +11,7 @@ vendor/
 
 # Ignore IDE files
 .vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store

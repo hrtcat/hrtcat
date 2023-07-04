@@ -91,3 +91,9 @@ Overall this is a very good method considering the other ones We've evaluated. I
 ### Guide by r/steroids Wiki
 
 #TODO - [Guide is here](https://www.reddit.com/r/steroids/wiki/homebrew/list/#wiki_homebrew)
+
+### Tyger
+
+#TODO
+
+This guide is extensive and looks very strong. Needs to be analyzed.

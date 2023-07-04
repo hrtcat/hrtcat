@@ -46,6 +46,9 @@ Here's an example of something we might use:
 
 ![An image depicting an HRT Cat-branded vial label. The label has the name of the medication, the concentration, volume, and excipients. It also has a picture of a cat girl :3](/assets/images/vial_label.jpg)
 
+{: .warning }
+If you plan to mail your vials, especially T, you may consider making fake labels for your vials to claim that something else is inside of them. If you're doing this make sure your recipient knows you're doing it and knows where to find the correct information that should be on the vials.
+
 ## Check status of tests
 
 If you performed fingertip testing and final sterility testing #TODO
