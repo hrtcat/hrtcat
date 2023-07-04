@@ -11,7 +11,7 @@ This page previously recommended PVDF filters. Do not use these. After further r
 
 * **Pore Size**: 0.22μm (this size is required for sterilization)
 * **Sterility**: Use pre-packaged, sterile filters.
-* **Size**: if you're filtering 1-10mL, use a 13mm filter. 10-100mL use a 25mm filter[^1]. 100m-250mL use a 33mm filter[^4]. Keep in mind that the filter will eat some of your final product. The larger the filter the more product it will retain. At the same time, a larger filter will be easier to push your preparation through.
+* **Size**: if you're filtering 1-10mL, use a 13mm filter. 10-100mL use a 25mm filter.[^1] 100m-250mL use a 33mm filter.[^4] Keep in mind that the filter will eat some of your final product. The larger the filter the more product it will retain. At the same time, a larger filter will be easier to push your preparation through.
 * **Filter material**: Hydrophilic Polytetrafluoroethylene (PTFE) is moderately available and is compatible with our goals. It is safe with oil, benzyl alcohol, and benzyl benzoate.[^2] [^3]
 
 {: .info}
